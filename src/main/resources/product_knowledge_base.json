@@ -1,0 +1,266 @@
+[
+  {
+    "id": 9,
+    "name": "Quần Áo Cầu Lông",
+    "price": 120000.0,
+    "description": "Bộ quần áo cầu lông cao cấp, chất liệu thoáng khí và co giãn, giúp bạn thoải mái di chuyển và phát huy tối đa hiệu suất trên sân.",
+    "category": "Quần Áo",
+    "tags": ["cầu lông", "áo cầu lông", "quần cầu lông", "thoáng khí"]
+  },
+  {
+    "id": 10,
+    "name": "Quần Áo Bóng Đá",
+    "price": 200000.0,
+    "description": "Sản phẩm đa năng, chất vải co giãn 4 chiều, mang lại cảm giác thoải mái và phong cách khi luyện tập.",
+    "category": "Quần Áo",
+    "tags": ["bóng đá", "đồ bộ", "đồ đá banh", "co giãn"]
+  },
+  {
+    "id": 11,
+    "name": "Đồ Thể Thao 03",
+    "price": 300000.0,
+    "description": "Sản phẩm đa năng, chất vải co giãn 4 chiều, mang lại cảm giác thoải mái và phong cách khi luyện tập.",
+    "category": "Quần Áo",
+    "tags": ["áo", "tập gym", "thể thao", "đa năng"]
+  },
+  {
+    "id": 12,
+    "name": "Đồ Thể Thao 04",
+    "price": 250000.0,
+    "description": "Sản phẩm đa năng, chất vải co giãn 4 chiều, mang lại cảm giác thoải mái và phong cách khi luyện tập.",
+    "category": "Quần Áo",
+    "tags": ["áo", "thể thao", "đa năng", "co giãn"]
+  },
+  {
+    "id": 13,
+    "name": "Đồ Thể Thao 05",
+    "price": 350000.0,
+    "description": "Sản phẩm đa năng, chất vải co giãn 4 chiều, mang lại cảm giác thoải mái và phong cách khi luyện tập.",
+    "category": "Quần Áo",
+    "tags": ["áo", "thể thao", "đa năng", "co giãn"]
+  },
+  {
+    "id": 14,
+    "name": "Giày Thể Thao 01",
+    "price": 500000.0,
+    "description": "Giày thể thao Giày Thể Thao 01, đế đàn hồi cao cấp, hỗ trợ tối đa cho việc tập luyện đa năng, thiết kế thời trang và bền bỉ.",
+    "category": "Giày Thể Thao",
+    "tags": ["giày", "tập luyện", "đa năng", "chạy bộ"]
+  },
+  {
+    "id": 15,
+    "name": "Giày Thể Thao 02",
+    "price": 400000.0,
+    "description": "Giày thể thao Giày Thể Thao 01, đế đàn hồi cao cấp, hỗ trợ tối đa cho việc tập luyện đa năng, thiết kế thời trang và bền bỉ.",
+    "category": "Giày Thể Thao",
+    "tags": ["giày", "tập luyện", "đa năng", "thời trang"]
+  },
+  {
+    "id": 16,
+    "name": "Giày Thể Thao 03",
+    "price": 350000.0,
+    "description": "Giày thể thao Giày Thể Thao 01, đế đàn hồi cao cấp, hỗ trợ tối đa cho việc tập luyện đa năng, thiết kế thời trang và bền bỉ.",
+    "category": "Giày Thể Thao",
+    "tags": ["giày", "tập luyện", "chạy bộ", "bền"]
+  },
+  {
+    "id": 17,
+    "name": "Giày Thể Thao 04",
+    "price": 14990000.0,
+    "description": "Giày thể thao Giày Thể Thao 01, đế đàn hồi cao cấp, hỗ trợ tối đa cho việc tập luyện đa năng, thiết kế thời trang và bền bỉ.",
+    "category": "Giày Thể Thao",
+    "tags": ["giày", "tập luyện", "cao cấp", "đế đàn hồi"]
+  },
+  {
+    "id": 18,
+    "name": "Giày Thể Thao 05",
+    "price": 650000.0,
+    "description": "Giày thể thao Giày Thể Thao 01, đế đàn hồi cao cấp, hỗ trợ tối đa cho việc tập luyện đa năng, thiết kế thời trang và bền bỉ.",
+    "category": "Giày Thể Thao",
+    "tags": ["giày", "tập luyện", "đa năng", "giá tốt"]
+  },
+  {
+    "id": 19,
+    "name": "Đồ Thể Thao 06",
+    "price": 1400000.0,
+    "description": "Giày thể thao Giày Thể Thao 01, đế đàn hồi cao cấp, hỗ trợ tối đa cho việc tập luyện đa năng, thiết kế thời trang và bền bỉ.",
+    "category": "Quần Áo",
+    "tags": ["áo", "thể thao", "cao cấp"]
+  },
+  {
+    "id": 24,
+    "name": "Giày Thể Thao 06",
+    "price": 700000.0,
+    "description": "Giày thể thao Giày Thể Thao 01, đế đàn hồi cao cấp, hỗ trợ tối đa cho việc tập luyện đa năng, thiết kế thời trang và bền bỉ.",
+    "category": "Giày Thể Thao",
+    "tags": ["giày", "tập luyện", "đa năng"]
+  },
+  {
+    "id": 25,
+    "name": "Giày Thể Thao 07",
+    "price": 750000.0,
+    "description": "Giày thể thao Giày Thể Thao 01, đế đàn hồi cao cấp, hỗ trợ tối đa cho việc tập luyện đa năng, thiết kế thời trang và bền bỉ.",
+    "category": "Giày Thể Thao",
+    "tags": ["giày", "tập luyện", "đa năng"]
+  },
+  {
+    "id": 26,
+    "name": "Giày Thể Thao 08",
+    "price": 850000.0,
+    "description": "Giày thể thao Giày Thể Thao 01, đế đàn hồi cao cấp, hỗ trợ tối đa cho việc tập luyện đa năng, thiết kế thời trang và bền bỉ.",
+    "category": "Giày Thể Thao",
+    "tags": ["giày", "tập luyện", "đa năng"]
+  },
+  {
+    "id": 27,
+    "name": "Giày Thể Thao 09",
+    "price": 25990000.0,
+    "description": "Giày thể thao Giày Thể Thao 01, đế đàn hồi cao cấp, hỗ trợ tối đa cho việc tập luyện đa năng, thiết kế thời trang và bền bỉ.",
+    "category": "Giày Thể Thao",
+    "tags": ["giày", "tập luyện", "cao cấp", "hàng hiếm"]
+  },
+  {
+    "id": 28,
+    "name": "Giày Thể Thao 10",
+    "price": 230000.0,
+    "description": "Giày thể thao Giày Thể Thao 01, đế đàn hồi cao cấp, hỗ trợ tối đa cho việc tập luyện đa năng, thiết kế thời trang và bền bỉ.",
+    "category": "Giày Thể Thao",
+    "tags": ["giày", "tập luyện", "giá rẻ"]
+  },
+  {
+    "id": 32,
+    "name": "Túi Thể Thao 01",
+    "price": 20000.0,
+    "description": "Túi đựng đồ thể thao đa năng, chống thấm nước, có nhiều ngăn tiện dụng, lý tưởng cho việc mang đồ đi tập gym.",
+    "category": "Túi/Balo",
+    "tags": ["túi gym", "chống thấm", "túi tập"]
+  },
+  {
+    "id": 33,
+    "name": "Tất Thể Thao 01",
+    "price": 20000.0,
+    "description": "Tất thể thao đa năng, cổ trung, chất liệu cotton pha Spandex co giãn 4 chiều. Thiết kế vùng lưới thoáng khí giúp chân luôn khô ráo. Độ dày vừa phải, phù hợp cho gym, cycling hoặc các hoạt động hàng ngày.",
+    "category": "Tất",
+    "tags": ["tất", "cổ trung", "gym", "thoáng khí"]
+  },
+  {
+    "id": 34,
+    "name": "Tất Thể Thao 02",
+    "price": 20000.0,
+    "description": "Tất thể thao đa năng, cổ trung, chất liệu cotton pha Spandex co giãn 4 chiều. Thiết kế vùng lưới thoáng khí giúp chân luôn khô ráo. Độ dày vừa phải, phù hợp cho gym, cycling hoặc các hoạt động hàng ngày.",
+    "category": "Tất",
+    "tags": ["tất", "cổ trung", "gym", "thoáng khí"]
+  },
+  {
+    "id": 35,
+    "name": "Tất Thể Thao 03",
+    "price": 20000.0,
+    "description": "Tất thể thao đa năng, cổ trung, chất liệu cotton pha Spandex co giãn 4 chiều. Thiết kế vùng lưới thoáng khí giúp chân luôn khô ráo. Độ dày vừa phải, phù hợp cho gym, cycling hoặc các hoạt động hàng ngày.",
+    "category": "Tất",
+    "tags": ["tất", "cổ trung", "gym", "thoáng khí"]
+  },
+  {
+    "id": 36,
+    "name": "Tất Thể Thao 04",
+    "price": 20000.0,
+    "description": "Tất thể thao đa năng, cổ trung, chất liệu cotton pha Spandex co giãn 4 chiều. Thiết kế vùng lưới thoáng khí giúp chân luôn khô ráo. Độ dày vừa phải, phù hợp cho gym, cycling hoặc các hoạt động hàng ngày.",
+    "category": "Tất",
+    "tags": ["tất", "cổ trung", "gym", "thoáng khí"]
+  },
+  {
+    "id": 37,
+    "name": "Tất Thể Thao 05",
+    "price": 20000.0,
+    "description": "Tất thể thao đa năng, cổ trung, chất liệu cotton pha Spandex co giãn 4 chiều. Thiết kế vùng lưới thoáng khí giúp chân luôn khô ráo. Độ dày vừa phải, phù hợp cho gym, cycling hoặc các hoạt động hàng ngày.",
+    "category": "Tất",
+    "tags": ["tất", "cổ trung", "gym", "thoáng khí"]
+  },
+  {
+    "id": 38,
+    "name": "Tất Thể Thao 06",
+    "price": 20000.0,
+    "description": "Tất thể thao đa năng, cổ trung, chất liệu cotton pha Spandex co giãn 4 chiều. Thiết kế vùng lưới thoáng khí giúp chân luôn khô ráo. Độ dày vừa phải, phù hợp cho gym, cycling hoặc các hoạt động hàng ngày.",
+    "category": "Tất",
+    "tags": ["tất", "cổ trung", "gym", "thoáng khí"]
+  },
+  {
+    "id": 39,
+    "name": "Áo thun Tay Dài",
+    "price": 350000.0,
+    "description": "Thiết kế đơn giản, thoải mái, phù hợp cho cả tập luyện nhẹ và mặc hàng ngày. Chất liệu mềm mại, thoáng khí, bảo vệ da khỏi tia UV khi hoạt động ngoài trời.",
+    "category": "Áo Thể Thao",
+    "tags": ["áo tay dài", "chống nắng", "mặc hàng ngày"]
+  },
+  {
+    "id": 40,
+    "name": "Đồ Bộ Bóng Rổ",
+    "price": 450000.0,
+    "description": "Bộ đồ chuyên nghiệp, sử dụng vải Spandex/Poly-stretch có độ co giãn cao, ôm vừa phải nhưng không gò bó. Đường may chắc chắn, chịu lực tốt, lý tưởng cho các pha tranh chấp và nhảy bật. Có thể in tê...",
+    "category": "Đồ Bộ Bóng Rổ",
+    "tags": ["bóng rổ", "chuyên nghiệp", "co giãn", "tùy chỉnh"]
+  },
+  {
+    "id": 42,
+    "name": "Đồ Bộ Bóng Rổ",
+    "price": 400000.0,
+    "description": "Bộ đồ chuyên nghiệp, sử dụng vải Spandex/Poly-stretch có độ co giãn cao, ôm vừa phải nhưng không gò bó. Đường may chắc chắn, chịu lực tốt, lý tưởng cho các pha tranh chấp và nhảy bật. Có thể in tê...",
+    "category": "Đồ Bộ Bóng Rổ",
+    "tags": ["bóng rổ", "chuyên nghiệp", "co giãn", "tùy chỉnh"]
+  },
+  {
+    "id": 43,
+    "name": "Bộ Đồ Bóng Rổ",
+    "price": 500000.0,
+    "description": "Bộ đồ chuyên nghiệp, sử dụng vải Spandex/Poly-stretch có độ co giãn cao, ôm vừa phải nhưng không gò bó. Đường may chắc chắn, chịu lực tốt, lý tưởng cho các pha tranh chấp và nhảy bật. Có thể in tê...",
+    "category": "Đồ Bộ Bóng Rổ",
+    "tags": ["bóng rổ", "chuyên nghiệp", "co giãn", "cao cấp"]
+  },
+  {
+    "id": 44,
+    "name": "Đồ Bộ Bóng Rổ",
+    "price": 450000.0,
+    "description": "Bộ đồ chuyên nghiệp, sử dụng vải Spandex/Poly-stretch có độ co giãn cao, ôm vừa phải nhưng không gò bó. Đường may chắc chắn, chịu lực tốt, lý tưởng cho các pha tranh chấp và nhảy bật. Có thể in tê...",
+    "category": "Đồ Bộ Bóng Rổ",
+    "tags": ["bóng rổ", "chuyên nghiệp", "co giãn", "giá tốt"]
+  },
+  {
+    "id": 45,
+    "name": "Đồ Bộ Bóng Rổ",
+    "price": 500000.0,
+    "description": "Bộ đồ chuyên nghiệp, sử dụng vải Spandex/Poly-stretch có độ co giãn cao, ôm vừa phải nhưng không gò bó. Đường may chắc chắn, chịu lực tốt, lý tưởng cho các pha tranh chấp và nhảy bật. Có thể in tê...",
+    "category": "Đồ Bộ Bóng Rổ",
+    "tags": ["bóng rổ", "chuyên nghiệp", "co giãn", "giá tốt"]
+  },
+  {
+    "id": 46,
+    "name": "Đồ Đá Bóng",
+    "price": 500000.0,
+    "description": "Sản phẩm đa năng, chất vải co giãn 4 chiều, mang lại cảm giác thoải mái và phong cách khi luyện tập.",
+    "category": "Quần Áo",
+    "tags": ["bóng đá", "đồ bộ", "đồ đá banh", "co giãn"]
+  },
+  {
+    "id": 47,
+    "name": "Đồ Đá Bóng",
+    "price": 500000.0,
+    "description": "Sản phẩm đa năng, chất vải co giãn 4 chiều, mang lại cảm giác thoải mái và phong cách khi luyện tập.",
+    "category": "Quần Áo",
+    "tags": ["bóng đá", "đồ bộ", "đồ đá banh", "co giãn"]
+  },
+  {
+    "id": 48,
+    "name": "Túi Chéo",
+    "price": 369000.0,
+    "description": "Túi chéo nhỏ gọn, lý tưởng để đựng điện thoại, ví tiền và chìa khóa khi đi tập gym, chạy bộ hoặc đạp xe. Chất liệu nhẹ, chống thấm nước nhẹ, có ngăn lưới nhỏ bên trong giúp sắp xếp đồ ...",
+    "category": "Túi/Balo",
+    "tags": ["túi chéo", "đeo chéo", "sling bag", "chống thấm"]
+  },
+  {
+    "id": 49,
+    "name": "túi chéo lululemon",
+    "price": 449000.0,
+    "description": "Túi đeo chéo (Crossbody Bag) phong cách, chất liệu bền bỉ, thích hợp cho việc di chuyển hàng ngày.",
+    "category": "Túi/Balo",
+    "tags": ["túi chéo", "lululemon", "đeo chéo", "thời trang"]
+  }
+]

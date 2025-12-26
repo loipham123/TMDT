@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "tag": "chao_hoi",
+      "keywords": ["chào", "hello", "xin chào", "bot ơi"],
+      "response": "Chào bạn! Mình là Bot tư vấn đồ thể thao. Bạn cần tìm sản phẩm (Giày, Túi, Đồ bộ...) hay cần hỗ trợ **cách đặt hàng/thanh toán** ạ?"
+    },
+    {
+      "tag": "dat_hang",
+      "keywords": ["đặt hàng", "mua thế nào", "cách mua", "mua sản phẩm"],
+      "response": "Quy trình đặt hàng: 1. Chọn sản phẩm. 2. Vào Giỏ hàng. 3. Tiến hành Thanh toán. 4. Điền thông tin nhận hàng. Bạn có thể hỏi thêm về chính sách giao hàng hoặc thanh toán!"
+    },
+    {
+      "tag": "thanh_toan",
+      "keywords": ["thanh toán", "chuyển khoản", "cod"],
+      "response": "Shop hỗ trợ thanh toán qua chuyển khoản ngân hàng và COD (Thanh toán khi nhận hàng). Nếu bạn chọn COD, bạn chỉ thanh toán khi nhận được hàng."
+    },
+    {
+      "tag": "tu_van_tui_cheo",
+      "keywords": ["túi chéo", "túi đeo chéo", "sling bag"],
+      "response": "Túi chéo (crossbody bag) rất tiện lợi! Shop có các mẫu **Mini chống thấm** (đựng điện thoại, ví) và **Sling Bag đa ngăn** (đựng đồ tập gym nhẹ). Bạn quan tâm túi nhỏ hay túi lớn hơn?"
+    },
+    {
+      "tag": "tu_van_bong_ro",
+      "keywords": ["bóng rổ", "đồ bộ bóng rổ", "quần bóng rổ"],
+      "response": "Đồ bộ bóng rổ bên mình có hai loại chính: **1) Form Rộng Thoáng Khí** (giá rẻ) và **2) Chất Liệu Co Giãn Cao Cấp** (chịu lực tốt). Bạn muốn tìm loại nào hoặc size nào ạ?"
+    }
+  ]
+}
